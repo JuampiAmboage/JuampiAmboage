@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**JuampiAmboage/JuampiAmboage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Juampi.
 
-Here are some ideas to get you started:
+Currently studying at Facultad de Ingeniería, Universidad de Buenos Aires.
+Working hard to become a Software Engineer ✨.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to Reach Me
+
+- **Email**: jamboage@fi.uba.ar
+
+
+
